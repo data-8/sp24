@@ -7,7 +7,8 @@ description: >-
 ---
 
 # Frequently Asked Questions
-
+## Coming soon!
+<!-- 
 <br>
 
 **Q: What is the best way to get help in this course?**
@@ -36,7 +37,7 @@ description: >-
 
 **Q: I have some other grading questions. Who should I contact?**
 
-**A:** Please contact your lab GSI.
+**A:** Please contact your lab GSI. -->
 
 <script src="../assets/darkmode.js"></script>
 <script>

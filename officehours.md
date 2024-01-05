@@ -7,7 +7,8 @@ description: >-
 ---
 
 # Office Hours
-You are welcome to show up to any office hours. Please see the calendar for OH times and locations.
+## Coming soon!
+<!-- You are welcome to show up to any office hours. Please see the calendar for OH times and locations.
 
 We use an [online sign-up system](https://oh.data8.org/) to help keep track of everyone.
 
@@ -38,7 +39,7 @@ If you need help during your lab section, please utilize the [lab queue](https:/
 
 <div class="calendar-container">
   <iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=2&ctz=America%2FLos_Angeles&title=&nbsp;&showNav=1&showDate=1&mode=WEEK&src=Y181YTMwMjkxZjJmMGJhMzQxOWIyMzdmZjVkOWYwMTA2MDQxOTZjMWZhZTc2ZWFhMWI5OWM5Y2EyZDkzMWRlYWNjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23003262"></iframe>
-</div>
+</div> -->
 
 <script src="../assets/darkmode.js"></script>
 <script>

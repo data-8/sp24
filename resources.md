@@ -7,6 +7,8 @@ description: >-
 ---
 
 # Resources
+## Coming soon!
+<!-- 
 {:.no_toc}
 
 ## Table of Contents
@@ -92,7 +94,7 @@ Your wellbeing matters, and we hope that Data 8 is _never_ a barrier to taking c
 * [Campus Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub)
 * [ASUC Student Advocate's Office](https://advocate.berkeley.edu/)
 * [Basic Needs Center](https://basicneeds.berkeley.edu/)
-* [ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf)
+* [ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf) -->
 
 <script src="../assets/darkmode.js"></script>
 <script>

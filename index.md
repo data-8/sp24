@@ -17,6 +17,8 @@ UC Berkeley, Fall 2023
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
+<!-- [Lecture Recordings]({https://bcourses.berkeley.edu/courses/COURSE_ID/external_tools/KALTURA_ID}){: .btn .btn-blue} -->
+
 ## Announcements
 
 

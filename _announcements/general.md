@@ -1,11 +1,10 @@
 ---
-title: Week 15 Announcements
-week: 15
-date: 2023-11-27
+title: Week 0 Announcements
+week: 0
+date: 2024-01-04
 ---
 
-* Link to Week 15 [here](https://www.data8.org/fa23/#week-15)
-* Please fill out the final exam accommodations form [here](https://edstem.org/us/courses/44018/discussion/3825034)
-* Project 3 due **Friday, 12/1**
-* Make sure to start exporting assignments at least one hour in advance so we can help you submit them by 11 pm if you run into any issues!
-{: .fs-5 }
+* Welcome to the Fall 2024 offering of Data 8!
+* We're excited to work with you throughout the semester!
+* Check back here for more updates soon!
+    * We'll be updating the pages of this site regularly in the first few weeks!

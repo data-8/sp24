@@ -1,24 +1,23 @@
 ---
 title: Week 7
 class: Berkeley
-status: Active
 ---
 
-Oct 2
-: **17 (Sahai)**{: .label} Comparing Distributions
-  : [Slides](https://docs.google.com/presentation/d/1CClMgGxiB1hHSkqsI9s3YGRw-nvdUCB0E1H5C5vzHGk/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec17%2Flec17.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985)
+Feb 26
+: **17**{: .label} Comparing Distributions
+  : [Slides](https://docs.google.com/presentation/d/1fkkRoXyOPDbCqw9d7GwFd4o7-djQ1i4ZafTfKi_-5c0/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec17.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec17.html)  &#8226; [Video](https://youtu.be/L1wTDK6oc4M)
 : *Reading:* [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html), [11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)
-: **Lab**{: .label .label-lab} [Lab 06: Assessing Models (Due 10/6)](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flab%2Flab06%2Flab06.ipynb)
-  : [Lab 06 Worksheet](https://drive.google.com/file/d/1bvE9fueBSi88Z7uNxl-KgGVqgg6c1-3v/view?usp=drive_link)
+: **Lab**{: .label .label-lab} [Lab 06: Assessing Models](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Flab%2Flab06%2Flab06.ipynb&branch=main) (Due 3/1)
+  : [Lab 06 Worksheet](https://drive.google.com/file/d/16ZCZGJt621oyDEDQmVTDMaRTPhxAifwy/view?usp=sharing)
 
-
-Oct 4
-: **18 (Khan)**{: .label} Decisions and Uncertainty
-  : [Slides](https://docs.google.com/presentation/d/1CcFJJQD3OJp8DtECaG_VC8ivC5vMCWt-9viBZXQ9b0E/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec18%2Flec18.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) 
+Feb 27
+: **18**{: .label} Decisions and Uncertainty
+  : [Slides](https://docs.google.com/presentation/d/1k1Qc2_sPXeweSOsC7C5OSTXGKHeVHCYjyVdUzxb8l80/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec18.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec18.html)  &#8226; [Video](https://youtu.be/nwAz5hVhn3g)
 : *Reading:* [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 
-Oct 6
-: **19 (Sahai)**{: .label} A/B Testing
-  : [Slides](https://docs.google.com/presentation/d/1JZ4vOyxu-JQY7D7yikllFO91NJbF9ebm8JpBTMkrKBU/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec19%2Flec19.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985)
+Mar 1
+: **19**{: .label} A/B Testing
+  : [Slides](https://docs.google.com/presentation/d/12AOQ6u5OVijg_9VGOfyPEhkJTqjKuZDbPMfu-q-P7L0/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec19.ipynb&branch=main) 
+  &#8226; [Demos (HTML Only)](assets/demo_html/lec19.html)  &#8226; [Video](https://youtu.be/qDcMWGABSsU)
 : *Reading:* [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
-: **Homework**{: .label .label-homework} [Homework 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw07%2Fhw07.ipynb) (Due 10/11)
+: **Homework**{: .label .label-homework} [Homework 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2F%2Fmaterials%2Fsp23%2Fhw%2Fhw07%2Fhw07.ipynb&branch=main) (Due 3/6)

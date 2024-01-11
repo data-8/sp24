@@ -176,7 +176,7 @@
 // COLORS
 
 a {
-  color: $blue-100 !important;
+  color: $blue-100;
 }
 
 .main-content .anchor-heading svg {
@@ -376,4 +376,26 @@ code {
 
 .dm-text a {
   color: white !important;
+}
+
+
+
+.btn-datahub {
+  @include btn-color($white, #FF8C00);
+}
+
+.btn-ed {
+  @include btn-color($white, #9400D3);
+}
+
+.btn-bcourses {
+  @include btn-color($white, #19519a);
+}
+
+.btn-gradescope {
+  @include btn-color($white, #228B22);
+}
+
+.btn-textbook {
+  @include btn-color($white, teal);
 }

@@ -17,7 +17,10 @@ UC Berkeley, Spring 2024
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
-<!-- [Lecture Recordings]({https://bcourses.berkeley.edu/courses/COURSE_ID/external_tools/KALTURA_ID}){: .btn .btn-blue} -->
+[Ed]({https://edstem.org/us/courses/52859/discussion}){: .btn .btn-purple }
+[Lecture Recordings]({https://bcourses.berkeley.edu/courses/1532352/external_tools/90481}){: .btn .btn-blue }
+[Gradescope]({https://www.gradescope.com/courses/703847}){: .btn .btn-green }
+
 
 ## Announcements
 

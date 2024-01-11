@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Office Hours
-nav_exclude: true
+nav_order: 3
 description: >-
     Fall 2023 Office Hours Schedule
 ---

@@ -3,12 +3,12 @@ layout: page
 title: Office Hours
 nav_order: 3
 description: >-
-    Fall 2023 Office Hours Schedule
+    Spring 2024 Office Hours Schedule
 ---
 
 # Office Hours
 ## Coming soon!
-<!-- You are welcome to show up to any office hours. Please see the calendar for OH times and locations.
+You are welcome to show up to any office hours. Please see the calendar for OH times and locations.
 
 We use an [online sign-up system](https://oh.data8.org/) to help keep track of everyone.
 
@@ -16,7 +16,7 @@ If you need help during your lab section, please utilize the [lab queue](https:/
 
 ## Office Hours Calendar
 
-### Data 8 Fall 2023 Office Hour Calendar
+### Data 8 Spring 2024 Office Hour Calendar
 
   <style>
     /* Style the container to enable rounded corners and drop shadow */
@@ -38,8 +38,8 @@ If you need help during your lab section, please utilize the [lab queue](https:/
   </style>
 
 <div class="calendar-container">
-  <iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=2&ctz=America%2FLos_Angeles&title=&nbsp;&showNav=1&showDate=1&mode=WEEK&src=Y181YTMwMjkxZjJmMGJhMzQxOWIyMzdmZjVkOWYwMTA2MDQxOTZjMWZhZTc2ZWFhMWI5OWM5Y2EyZDkzMWRlYWNjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23003262"></iframe>
-</div> -->
+  <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=ZGF0YThAYmVya2VsZXkuZWR1&src=Y180ZTI5ZmQ2NTk5NmQ1NzE5ZjczZmE2ZjM1MTUzN2JkYzU4NWFmYWVlYzlhNDcxYTFmNDFkODY3M2RkMjQ2NWU0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y181YTMwMjkxZjJmMGJhMzQxOWIyMzdmZjVkOWYwMTA2MDQxOTZjMWZhZTc2ZWFhMWI5OWM5Y2EyZDkzMWRlYWNjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19lMTc5ZWVmNDI1ZDVlNWFhMzA0ODAwMDA5Mzk4ZWE3MmJjMzBjZGFmNmY3NmFkMjQ5NWYwYmUwNWE2ZWMyMWE1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y180YzIzOWEwYmYzOWZiOWVmMjU2YWMwNmM0ODM3Y2QwM2IxZTNhMTNkZThlM2ExM2MyNDY3ODY5Y2RkMGZlM2U1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5&color=%23EF6C00&color=%23C0CA33&color=%23EF6C00&color=%23D50000&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 
 <script src="../assets/darkmode.js"></script>
 <script>

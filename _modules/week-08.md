@@ -18,4 +18,4 @@ Mar 6
 Mar 8
 : **22**{: .label} Midterm Review
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
-<!-- : **Exam**{: .label .label-exam} Midterm (7 - 9 PM) -->
+: **Exam**{: .label .label-exam} Midterm (7 - 9 PM)

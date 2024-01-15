@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: Data 8 Fall 2023 Staff
+description: Data 8 Spring 2024 Staff
 ---
 
 # Staff

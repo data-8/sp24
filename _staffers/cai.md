@@ -3,7 +3,7 @@ email: capibarra@berkeley.edu
 name: Cai Ibarra
 pronouns: SHE/HER
 photo: staff/cai.jpeg
-bio: Hey hey! I'm a junior from Manila majoring in DS & MCB (triple major in eating ramen & taho). Excited to meet everyone!
-role: Tutor (UCS1)
+bio: Hi! I’m a junior from Manila majoring in DS & MCB (triple major in eating sushi & drinking matcha). Excited to meet everyone!
+role: uGSI (UCS2)
 office-hours: TBA
 ---

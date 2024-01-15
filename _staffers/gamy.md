@@ -3,7 +3,8 @@ email: gamyaguas@berkeley.edu
 name: Gamy Aguas
 pronouns: HE/HIM
 photo: staff/gamy.jpeg
-bio: Hello heellloo! The name is Gamy, I'm from Escondido CA and I’m a fourth year majoring in Math + Cs. I am a HUGE fan of coffee (Better buzz coffee »>), minecraft, pokemon and music, current fav artist.. laufey! :D Life motto - Live Laugh Laufey <3
-role: uGSI (UCS2)
+bio: Helloooo hellooo :D ! The name is Gamy and I am from Escondido CA, majoring math and CS! I am a HUGE fan of music (obsessed with kpop atm), coffee, minecraft and pokemon(dratini <3).  
+role: 20-hour Lead uGSI (UCS2)
 office-hours: TBA
+team: Logistics
 ---

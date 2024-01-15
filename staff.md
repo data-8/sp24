@@ -5,8 +5,8 @@ description: Data 8 Fall 2023 Staff
 ---
 
 # Staff
-## Coming soon!
-<!-- 
+
+
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -41,7 +41,7 @@ _All office hours are held in-person in Warren 101 unless otherwise specified_
 {% endfor %}
 </div>
 
-## Tutors
+<!-- ## Tutors
 
 {% assign tutors = site.staffers | where: 'role', 'Tutor (UCS1)' %}
 

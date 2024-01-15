@@ -3,7 +3,7 @@ email: elladeguzman@berkeley.edu
 name: Ella DeGuzman
 pronouns: SHE/HER
 photo: staff/ella.jpeg
-bio: Hey!! I’m a third year studying computer science and bioengineering. Outside of school, I enjoy traveling, painting, taking film photos, and fashion!!
+bio: Hi!! I’m a third year studying Computer Science and Bioengineering. Outside of school, I enjoy traveling, painting, taking film photos, and fashion!! Can't wait to meet you all.
 role: uGSI (UCS2)
 office-hours: TBA
 ---

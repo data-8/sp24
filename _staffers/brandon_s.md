@@ -3,7 +3,7 @@ email: brandonsu@berkeley.edu
 name: Brandon Su
 pronouns: HE/HIM
 photo: staff/brandon_s.jpeg
-bio: Hello! I'm a sophomore studying Applied Math and CS. I love eating good food, going on runs, and hanging out with friends :-)
-role: Tutor (UCS1)
+bio: Hi! I'm a sophomore from the Bay studying Applied Math and CS. I love teaching, nature, and recently been obsessed with honey 🍯
+role: uGSI (UCS2)
 office-hours: TBA
 ---

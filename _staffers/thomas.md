@@ -3,8 +3,8 @@ email: wtgerken@berkeley.edu
 name: Thomas Gerken
 pronouns: HE/HIM
 photo: staff/thomas.jpeg
-bio: Hi everyone, I'm a junior studying Data Science and Economics, and this will be my 4th semester with Data 8. I'm thrilled to be returning to the best staff on campus and looking forward to a great semester with everyone!
+bio: Hi everyone, I'm so excited to be returning as a 3rd time GSI to the best staff on campus! I'm a double major in Data Science and Economics, and I'm looking forward to getting to know you all this semester.
 role: 20-hour Lead uGSI (UCS2)
 office-hours: TBA
-team: Scholars
+team: Scholars & Tutors
 ---

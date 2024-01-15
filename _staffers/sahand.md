@@ -3,7 +3,7 @@ email: sadibnia@berkeley.edu
 name: Sahand Adibnia
 pronouns: HE/HIM
 photo: staff/sahand.jpeg
-bio: Hi everyone! I'm a second-year studying chemistry and data science. I really enjoyed Data 8, and I hope I can help share that with all the new students!
-role: Tutor (UCS1)
+bio: Hi everyone! I'm Sahand, a second year from the Bay studying chemistry and data science. I'm a big fan of soccer, cats, cars, and of course Data 8!
+role: uGSI (UCS2)
 office-hours: TBA
 ---

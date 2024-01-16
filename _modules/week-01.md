@@ -9,7 +9,7 @@ Jan 17
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [1.2](https://inferentialthinking.com/chapters/01/2/why-data-science.html), [1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html)
 : **Lab**{: .label .label-lab} Lab 01: Expressions (Due 1/19)
- : Lab 01 Worksheet
+ : [Lab 01 Worksheet](https://drive.google.com/file/d/1xH5ULcAX-Wrr3jy9ylk_sSWTOUyuIOeG/view?usp=sharing)
 
 
 Jan 19

@@ -7,8 +7,8 @@ description: >-
 ---
 
 # Accomodations
-## Coming soon!
-<!-- # Accommodations and Extensions
+
+# Accommodations and Extensions
 {:.no_toc}
 
 ## Table of Contents
@@ -21,7 +21,7 @@ description: >-
 
 ## Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 FA23 Extension Request](https://docs.google.com/forms/d/e/1FAIpQLSdPY_gOcPqEp4ccDxNTHpj0e6BiM7WFhK1t7tVmzFEJWNwfbg/viewform?usp=sf_link) form. Submissions to this form will be visible only to the Course Directors and Grading Leads.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 SU24 Extension Request](https://docs.google.com/forms/d/e/1FAIpQLScIjB9LSxV7UPKdNrAWbPJWJMJqV05P3jyznuAtAqQPmB79EA/viewform?usp=sf_link) form. Submissions to this form will be visible only to the Course Directors and Grading Leads.
 
 ## DSP Accommodations
 
@@ -44,7 +44,7 @@ Your wellbeing matters, and we hope that Data 8 is _never_ a barrier to taking c
 * [Campus Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub)
 * [ASUC Student Advocate's Office](https://advocate.berkeley.edu/)
 * [Basic Needs Center](https://basicneeds.berkeley.edu/)
-* [ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf) -->
+* [ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf)
 
 <script src="../assets/darkmode.js"></script>
 <script>

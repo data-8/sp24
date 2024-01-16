@@ -11,7 +11,7 @@ Feb 26
 : **Lab**{: .label .label-lab} Lab 06: Assessing Models (Due 3/1)
  : Lab 06 Worksheet
 
-Feb 27
+Feb 28
 : **18**{: .label} Decisions and Uncertainty
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)

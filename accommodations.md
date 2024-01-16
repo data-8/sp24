@@ -6,8 +6,6 @@ description: >-
     Accommodations
 ---
 
-# Accomodations
-
 # Accommodations and Extensions
 {:.no_toc}
 
@@ -21,7 +19,7 @@ description: >-
 
 ## Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 SU24 Extension Request](https://docs.google.com/forms/d/e/1FAIpQLScIjB9LSxV7UPKdNrAWbPJWJMJqV05P3jyznuAtAqQPmB79EA/viewform?usp=sf_link) form. Submissions to this form will be visible only to the Course Directors and Grading Leads.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 SP24 Extension Request](https://docs.google.com/forms/d/e/1FAIpQLScIjB9LSxV7UPKdNrAWbPJWJMJqV05P3jyznuAtAqQPmB79EA/viewform?usp=sf_link) form. Submissions to this form will be visible only to the Course Directors and Grading Leads.
 
 ## DSP Accommodations
 

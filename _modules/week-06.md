@@ -6,7 +6,7 @@ status: Active
 
 Feb 19
 : Holiday: No Class
-: **Lab (Sahai)**{: .label .label-lab} Lab 05: Conditional Statements, Iteration, Tables (Due 2/23)
+: **Lab**{: .label .label-lab} Lab 05: Conditional Statements, Iteration, Tables (Due 2/23)
  : Lab 05 Worksheet
 
 Feb 21

@@ -131,7 +131,7 @@ Your two lowest homework scores and two lowest lab scores will be dropped in the
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out this form (coming soon, link TBD). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>Please ensure that extension requests are submitted before the deadline to ensure a timely response on our end.</strong>
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScIjB9LSxV7UPKdNrAWbPJWJMJqV05P3jyznuAtAqQPmB79EA/viewform?usp=sf_link). Submissions to the form will be visible only to the course instructors and select Lead TAs. <strong>Please ensure that extension requests are submitted before the deadline to ensure a timely response on our end.</strong>
 
 Extension requests are most likely to be approved if they are submitted **at least 3 days in advance and requesting at most 2 days’ extension**. Requests outside of these guidelines are subject to more detailed review and may require a meeting with course staff or be denied. Students with DSP extension accommodations must submit extension requests before the assignment deadline.
 

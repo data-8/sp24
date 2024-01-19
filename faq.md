@@ -24,11 +24,11 @@ description: >-
 
 **Q: I have a 0 on Gradescope for a lab that I attended and got checked off. Why is this?**
 
-**A:** You likely did not submit the lab. If it is before the regrade deadline, submit the lab, and let your lab GSI know.
+**A:** Your attendance may have been marked incorrectly. Please contact your lab TA.
 
 **Q: I worked with a partner on a project, and they have a grade on Gradescope for the project while I do not. Why is this happening?**
 
-**A:** This is normal. Only one partner should have a grade on Gradescope, but the score will be applied to both partners.
+**A:** You were likely not added to the Gradescope submission. Have your partner add you to both the written work and autograder submission immediately and contact your lab TA. 
 
 **Q: I noticed a mistake in the grading of the written portion of my homework. How can I get this fixed?**
 

@@ -14,6 +14,6 @@ Jan 17
 
 Jan 19
 : **2 (Khan)**{: .label} Cause and Effect
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+ : [Slides](https://docs.google.com/presentation/d/1I-jgRpxyB0i7xsnbV1t443DtAsYzl3ffhWik_e5f2pI/edit#slide=id.gb419bc037a_1_0) &#8226; Demos &#8226; 
 : *Reading:* [2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)
 : **Homework**{: .label .label-homework} [Homework 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw01%2Fhw01.ipynb) (Due 1/24)

@@ -45,7 +45,7 @@ We will post student materials in [this folder](https://drive.google.com/drive/f
 Exams and practice exams from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` module has changed over time.
 
 **Midterms:**
-* [Fall 2023 Midterm](#) / [Solutions](#) **COMING SOON**
+* [Fall 2023 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa23-midterm.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa23-midterm-sol.pdf) 
 * [Spring 2023 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-midterm.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-midterm-solutions.pdf)
 * [Fall 2022 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa22-mt_printed.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa22-mt_solution.pdf)
 * [Spring 2022 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-midterm.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-midterm-solution.pdf)
@@ -62,7 +62,7 @@ Exams and practice exams from previous semesters can be found below. These exams
 * [Fall 2016 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa16-midterm.pdf)
 
 **Finals:**
-* [Fall 2023 Final](#) / [Solutions](#) **COMING SOON**
+* [Fall 2023 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa23-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa23-final-sols.pdf)
 * [Spring 2023 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-final-sol.pdf)
 * [Fall 2022 Final](https://drive.google.com/file/d/1lMEUafOXIJvWw0Fh_zo2XeE44EMAhC9m/view?usp=sharing) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa22_final_sols.pdf)
 * [Spring 2022 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-final-sols.pdf)

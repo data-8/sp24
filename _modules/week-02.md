@@ -6,10 +6,10 @@ status: Active
 
 Jan 22
 : **3 (Sahai)**{: .label} Tables
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1w_NH02ruMfsMwqHIteU8qlNhdzPNszVgNE0DWJLfels/edit?usp=sharing)
 : *Reading:* [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
 : **Lab**{: .label .label-lab} Lab 02: Table Operations (Due 1/26)
- : Lab 02 Worksheet
+   : Lab 02 Worksheet
 
 Jan 24
 : **4 (Khan)**{: .label} Data Types

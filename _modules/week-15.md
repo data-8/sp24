@@ -11,9 +11,9 @@ Apr 22
  : Lab 10 Worksheet
 
 Apr 24
-: **39 (Khan)**{: .label} Conclusion
+: **39 (Adhikari)**{: .label} Inference Review
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 
 Apr 26
-: **40 (Khan)**{: .label} Review Session
+: **40 (Sahai & Khan)**{: .label} Conclusion
 : **Homework**{: .label .label-homework} Homework 13 (Due 5/5)

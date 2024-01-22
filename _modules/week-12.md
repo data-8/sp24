@@ -11,7 +11,7 @@ Apr 1
  : Project 2 Lab Worksheet
 
 Apr 3
-: **30 (Sahai)**{: .label} Linear Regression
+: **30 (Khan)**{: .label} Linear Regression
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)
 

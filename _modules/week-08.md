@@ -16,6 +16,6 @@ Mar 6
 : *Reading:* [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
 
 Mar 8
-: **22 (Khan)**{: .label} Midterm Review
+: **22 (Sarah & Noah)**{: .label} Midterm Review
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : **Exam**{: .label .label-exam} Midterm (7 - 9 PM)

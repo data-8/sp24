@@ -12,7 +12,7 @@ Mar 11
  : Lab 07 Worksheet
 
 Mar 13
-: **24 (Sahai)**{: .label} Interpreting Confidence
+: **24 (Khan)**{: .label} Interpreting Confidence
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html), [13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)
 

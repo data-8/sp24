@@ -12,12 +12,12 @@ Feb 26
  : Lab 06 Worksheet
 
 Feb 28
-: **18 (Sahai)**{: .label} Decisions and Uncertainty
+: **18 (Khan)**{: .label} Decisions and Uncertainty
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 
 Mar 1
-: **19 (Khan)**{: .label} A/B Testing
+: **19 (Sahai)**{: .label} A/B Testing
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
  &#8226;
 : *Reading:* [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)

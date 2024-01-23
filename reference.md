@@ -78,7 +78,7 @@ In the examples in the left column, `np` refers to the NumPy module, as usual. E
 | `np.append(array, item)` | [9.2](https://www.inferentialthinking.com/chapters/09/2/Iteration.html) | Returns a copy of the input array with `item` appended to the end. |
 | `percentile(percentile, array)` | [13.1](https://www.inferentialthinking.com/chapters/13/1/Percentiles.html) | Returns the corresponding percentile of an array. |
 
-## `Table.where`  Predicates
+## Table Filtering Predicates
 
 Any of these predicates can be negated by adding `not_` in front of them, e.g. `are.not_equal_to(Z)` or `are.not_containing(S)`.
 

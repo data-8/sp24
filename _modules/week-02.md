@@ -8,7 +8,7 @@ Jan 22
 : **3 (Sahai)**{: .label} Tables
    : [Slides](https://docs.google.com/presentation/d/1w_NH02ruMfsMwqHIteU8qlNhdzPNszVgNE0DWJLfels/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec03%2Flec03.ipynb&branch=main)
 : *Reading:* [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
-: **Lab**{: .label .label-lab} Lab 02: Table Operations (Due 1/26)
+: **Lab**{: .label .label-lab} [Lab 02: Table Operations](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab02%2Flab02.ipynb) (Due 1/26)
    : Lab 02 Worksheet
 
 Jan 24

@@ -1,10 +1,10 @@
 ---
 title: Week 1 Announcements
-week: 1
-date: 2024-01-16
+week: 2
+date: 2024-01-23
 ---
 
 * Welcome to the Spring 2024 offering of Data 8!
-* Link to Week 1 [here](https://www.data8.org/sp24/index.html#week-1)
+* Link to Week 2 [here](https://www.data8.org/sp24/index.html#week-2)
 * Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 10:10am in Wheeler 150
-* We'll be updating the pages of this site regularly in the first few weeks!
+* Lab 02 released! Due 1/26 5:00PM

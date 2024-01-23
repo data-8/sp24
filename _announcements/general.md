@@ -1,5 +1,5 @@
 ---
-title: Week 1 Announcements
+title: Week 2 Announcements
 week: 2
 date: 2024-01-23
 ---

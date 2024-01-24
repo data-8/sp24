@@ -13,7 +13,7 @@ Jan 22
 
 Jan 24
 : **4 (Sahai)**{: .label} Data Types
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1ERHmyiR3hvIBHFHDxlLq5UtmMXyJzLPA0ZhgvaGGc38/edit?usp=sharing) &#8226; [Demos](#) &#8226; [Blank Demos](#)
 : *Reading:* [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)
 
 Jan 26

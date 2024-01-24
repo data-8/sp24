@@ -13,7 +13,7 @@ Jan 22
 
 Jan 24
 : **4 (Sahai)**{: .label} Data Types
-   : [Slides](https://docs.google.com/presentation/d/1ERHmyiR3hvIBHFHDxlLq5UtmMXyJzLPA0ZhgvaGGc38/edit?usp=sharing) &#8226; [Demos](#) &#8226; [Blank Demos](#)
+   : [Slides](https://docs.google.com/presentation/d/1ERHmyiR3hvIBHFHDxlLq5UtmMXyJzLPA0ZhgvaGGc38/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec04%2Flec04.ipynb&branch=main)
 : *Reading:* [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)
 
 Jan 26

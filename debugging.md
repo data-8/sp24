@@ -64,6 +64,11 @@ To fix the issue, identify any such lines of code, change your variable names to
 
 Python keywords like str and list appear in green text, so be on the lookout if any of your variable names appear in green!
 
+### SyntaxError at the very beginning of a line of code
+
+Python expected you to continue your last line of code. Typically this means you have mismatched parentheses on the line above the line that is erroring.
+
+
 ## DataHub
 
 ### Why can’t I log in to DataHub?

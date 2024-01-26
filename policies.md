@@ -33,7 +33,7 @@ The curriculum and format are designed specifically for students who have not pr
 
 ### Materials & Resources
 
-Our primary text is an online book called [Computational and Inferential Thinking: The Foundations of Data Science](http://inferentialthinking.com/). This text was written for the course by the course instructors. A complete PDF of the textbook can be found in the Student Materials Google Drive.
+Our primary text is an online book called [Computational and Inferential Thinking: The Foundations of Data Science](http://inferentialthinking.com/). This text was written for the course by the course instructors. A complete PDF of the textbook can be found in the [Student Materials](https://drive.google.com/drive/folders/1VWVpfbm1-6zVmyohB_-Jm4o0EWsxzCxr?usp=drive_link) Google Drive.
 
 The computing platform for the course is hosted at data8.datahub.berkeley.edu. Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, we can help you borrow a machine; please contact data8@berkeley.edu.
 

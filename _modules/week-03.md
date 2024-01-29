@@ -6,7 +6,7 @@ status: Active
 
 Jan 29
 : **6 (Sahai)**{: .label} Census
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/13qxSnC2beiMzWWp67Zve8vYYwdcaiNrTpbFCRvgf7Qc/edit?usp=sharing) <!-- &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html), [6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html)
 : **Lab**{: .label .label-lab} Lab 03: Data Types, Creating and Extending Tables (Due 2/2)
  : Lab 03 Worksheet

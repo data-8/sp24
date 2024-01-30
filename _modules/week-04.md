@@ -21,4 +21,4 @@ Feb 9
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Homework**{: .label .label-homework} Homework 04 (Due 2/14)
-: **Project**{: .label .label-project} Project 1: World Population and Poverty (Due 2/23, Checkpoint 2/17)
+: **Project**{: .label .label-project} Project 1: World Population and Poverty (Due 2/23, Checkpoint 2/16)

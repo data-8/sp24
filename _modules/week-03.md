@@ -9,7 +9,7 @@ Jan 29
    : [Slides](https://docs.google.com/presentation/d/13qxSnC2beiMzWWp67Zve8vYYwdcaiNrTpbFCRvgf7Qc/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec06%2Flec06.ipynb&branch=main)
 : *Reading:* [6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html), [6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html)
 : **Lab**{: .label .label-lab} [Lab 03: Data Types, Creating and Extending Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab03%2Flab03.ipynb) (Due 2/2)
-   : [Lab 03 Worksheet](https://drive.google.com/file/d/1-B7seQ-YZAYXVp09XS_SKcteu_cTbKwr/view?usp=sharing)
+   : [Lab 03 Worksheet](https://drive.google.com/file/d/1JfShs04SD8-zyiQDhole3n1azsh0oos1/view?usp=sharing)
 
 Jan 31
 : **7 (Sahai)**{: .label} Charts

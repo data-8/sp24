@@ -20,4 +20,4 @@ Feb 2
 : **8 (Khan)**{: .label} Histograms
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
-: **Homework**{: .label .label-homework} Homework 03 (Due 2/7)
+: **Homework**{: .label .label-homework} [Homework 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw03%2Fhw03.ipynb) (Due 2/7)

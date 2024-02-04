@@ -1,10 +1,10 @@
 ---
-title: Week 3 Announcements
-week: 3
-date: 2024-01-30
+title: Week 4 Announcements
+week: 4
+date: 2024-02-03
 ---
 
-* Link to Week 3 [here](https://www.data8.org/sp24/index.html#week-3)
+* Link to Week 4 [here](https://www.data8.org/sp24/index.html#week-4)
 * Tutoring sections are now open! For more info, click [here](https://edstem.org/us/courses/52859/discussion/4195799)
-* HW 02 released! Due 1/31 5:00PM
-* Lab 03 released! Due 2/2 5:00PM
+* HW 03 released! Due 2/7 5:00PM
+* Project 1 releases on Friday 2/9

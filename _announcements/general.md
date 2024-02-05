@@ -1,7 +1,7 @@
 ---
 title: Week 4 Announcements
 week: 4
-date: 2024-02-03
+date: 2024-02-05
 ---
 
 * Link to Week 4 [here](https://www.data8.org/sp24/index.html#week-4)

@@ -23,10 +23,13 @@ description: >-
 ### Why does running a particular cell cause my kernel to die?
 If one particular cell seems to cause your kernel to die, your code is probably incorrect in a way that is causing the computer to use more memory than it has available. For instance: your code is trying to create a gigantic array. To prevent from crashing the entire server, the kernel will “die”. This is an indication that there is a mistake in your code that you need to fix.
 
+### My python code cell has turned into a text/markdown cell. How do I change it back?
+Click on the cell and select `Run > Cell Type > Change to Code Cell Type` in the top toolbar.
+
 ### How do I quickly run all the cells in a notebook?
 Go to the Cell menu in the top toolbar, then “Run All.” You can also select a certain cell and run all cells before this point, or run all cells after this point. You should run all the cells in your notebook before submitting to confirm that you pass all the tests.
 
-### Why does `grader.check_all()`` fail, if all previous tests passed?
+### Why does `grader.check_all()` fail, if all previous tests passed?
 This can happen if you “overwrite” a variable that is used in a question. For instance, if Question 1 asks you to store your answer in a variable named stat, and later on in the notebook you change the value of stat, you’ll see the test after Question 1 pass, but the test at the end of the notebook fail. Make sure to avoid using the same variable name for more than one purpose.
 
 ### Why does a notebook test fail now, when it passed before and I didn’t change my code?

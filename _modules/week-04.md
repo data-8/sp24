@@ -8,8 +8,8 @@ Feb 5
 : **9 (Sahai)**{: .label} Functions
    : [Slides](https://docs.google.com/presentation/d/1RT9NealaPB3FnVRBXFZAeqjO8VVhoJ8VXfxTAT1Yrr4/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec09%2Flec09.ipynb&branch=main)
 : *Reading:* [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
-: **Lab**{: .label .label-lab} Lab 04: Functions and Visualization (Due 2/9)
- : Lab 04 Worksheet
+: **Lab**{: .label .label-lab} [Lab 04: Functions and Visualization](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab04%2Flab04.ipynb) (Due 2/9)
+   : [Lab 04 Worksheet](https://drive.google.com/file/d/1yLS6dHj9rjKRONKxqgPeD2C4LNOAs3LN/view?usp=sharing)
 
 Feb 7
 : **10 (Khan)**{: .label} Groups

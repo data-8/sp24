@@ -13,7 +13,7 @@ Feb 5
 
 Feb 7
 : **10 (Khan)**{: .label} Groups
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1pgEAAkqRIZwa6RQKH0RblnJwd0ZVSkVahfugVYAGa6Y/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demos]([#](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec10%2Flec10_modified.ipynb&branch=main))
 : *Reading:* [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html)
 
 Feb 9

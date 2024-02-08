@@ -20,5 +20,5 @@ Feb 9
 : **11 (Khan)**{: .label} Pivots and Joins
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
-: **Homework**{: .label .label-homework} Homework 04 (Due 2/14)
+: **Homework**{: .label .label-homework} [Homework 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw04%2Fhw04.ipynb) (Due 2/14)
 : **Project**{: .label .label-project} Project 1: World Population and Poverty (Due 2/23, Checkpoint 2/16)

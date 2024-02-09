@@ -1,11 +1,11 @@
 ---
 title: Week 4 Announcements
 week: 4
-date: 2024-02-05
+date: 2024-02-09
 ---
 
 * Link to Week 4 [here](https://www.data8.org/sp24/index.html#week-4)
 * Tutoring sections are now open! For more info, click [here](https://edstem.org/us/courses/52859/discussion/4195799)
 * Lab 04 released! Due 2/9 5:00 PM
 * HW 04 released! Due 2/14 5:00PM
-* Project 1 releases on Friday 2/9
+* Project 1 released! Checkpoint due Friday 2/16

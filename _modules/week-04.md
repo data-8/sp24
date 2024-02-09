@@ -21,4 +21,4 @@ Feb 9
    : [Slides](https://docs.google.com/presentation/d/1rgt4MdZSDD7wqCgSZu3SKIXWfZ6qaUWQRLmVzV7Wkxw/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec11%2Flec11_modified.ipynb&branch=main)
 : *Reading:* [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Homework**{: .label .label-homework} [Homework 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw04%2Fhw04.ipynb) (Due 2/14)
-: **Project**{: .label .label-project} Project 1: World Population and Poverty (Due 2/23, Checkpoint 2/16)
+: **Project**{: .label .label-project} [Project 1: World Population and Poverty](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fproject%2Fproject1%2Fproject1.ipynb) (Due 2/23, Checkpoint 2/16)

@@ -5,7 +5,7 @@ status: Active
 ---
 
 Feb 26
-: **17 (Sahai)**{: .label} Comparing Distributions
+: **17 (Jonathan & Atticus)**{: .label} Comparing Distributions
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html), [11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)
 : **Lab**{: .label .label-lab} Lab 06: Assessing Models (Due 3/1)

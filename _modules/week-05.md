@@ -12,7 +12,7 @@ Feb 12
 
 Feb 14
 : **13 (Khan)**{: .label} Conditionals and Iteration
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1yr3eN7JIDpzeakZDsu5gvBa4g6R8R0yC9M91vvfu9Dw/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec13%2Flec13_modified.ipynb&branch=main)
 : *Reading:* [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
 
 Feb 16

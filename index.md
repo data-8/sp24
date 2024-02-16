@@ -21,6 +21,7 @@ UC Berkeley, Spring 2024
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1532352/external_tools/90481){: .btn .btn-bcourses}
 [Gradescope](https://www.gradescope.com/courses/703847){: .btn .btn-gradescope}
 [Textbook](https://inferentialthinking.com/chapters/intro.html){: .btn .btn-textbook}
+[Extensions](https://docs.google.com/forms/d/e/1FAIpQLScIjB9LSxV7UPKdNrAWbPJWJMJqV05P3jyznuAtAqQPmB79EA/viewform?usp=sf_link){: .btn .btn-extensions}
 
 
 

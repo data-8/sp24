@@ -22,7 +22,7 @@ UC Berkeley, Spring 2024
 [Gradescope](https://www.gradescope.com/courses/703847){: .btn .btn-gradescope}
 [Textbook](https://inferentialthinking.com/chapters/intro.html){: .btn .btn-textbook}
 [Extensions](https://docs.google.com/forms/d/e/1FAIpQLScIjB9LSxV7UPKdNrAWbPJWJMJqV05P3jyznuAtAqQPmB79EA/viewform?usp=sf_link){: .btn .btn-extensions}
-[Jump to Current Week](#week-6){: .btn .btn-currweek}
+[Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
 
 

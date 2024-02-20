@@ -399,3 +399,7 @@ code {
 .btn-textbook {
   @include btn-color($white, teal);
 }
+
+.btn-extensions {
+  @include btn-color($white, #4b34e0);
+}

@@ -403,3 +403,7 @@ code {
 .btn-extensions {
   @include btn-color($white, #523be7);
 }
+
+.btn-currweek {
+  @include btn-color($white, #FA8072);
+}

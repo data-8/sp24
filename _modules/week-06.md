@@ -7,7 +7,7 @@ status: Active
 Feb 19
 : Holiday: No Class
 : **Lab**{: .label .label-lab} [Lab 05: Conditional Statements, Iteration, Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab05%2Flab05.ipynb) (Due 2/23)
- : Lab 05 Worksheet
+   : [Lab 05 Worksheet](https://drive.google.com/file/d/1ebVYig4k_60P4KPGnzIuHKsqbjuUZ_YG/view?usp=sharing)
 
 Feb 21
 : **15 (Khan)**{: .label} Sampling

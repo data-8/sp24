@@ -11,7 +11,7 @@ Feb 19
 
 Feb 21
 : **15 (Khan)**{: .label} Sampling
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1mHduPhg1uyeK5ybjPbZhEaZ7MAzLrSqNzZNAcYvJ-Cs/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec15%2Flec15_modified.ipynb)
 : *Reading:* [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
 
 Feb 23

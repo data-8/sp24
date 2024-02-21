@@ -10,7 +10,7 @@ Apr 8
  : Lab 09 Worksheet
 
 Apr 10
-: **33 (Khan)**{: .label} Regression Inference
+: **33 (Sarah & Noah)**{: .label} Regression Inference
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [15.6](https://inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html)
 

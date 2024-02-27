@@ -45,7 +45,7 @@ We will post student materials in [this folder](https://drive.google.com/drive/f
 Exams and practice exams from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` module has changed over time.
 
 **Midterms:**
-* [Fall 2023 Midterm]([https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa23-midterm.pdf](https://drive.google.com/file/d/1Oc_4GGZE8aozXbAJYDeEwFs-pdArYMNY/view?usp=drive_link)) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa23-midterm-sol.pdf) 
+* [Fall 2023 Midterm](https://drive.google.com/file/d/1Oc_4GGZE8aozXbAJYDeEwFs-pdArYMNY/view?usp=drive_link) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa23-midterm-sol.pdf) 
 * [Spring 2023 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-midterm.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-midterm-solutions.pdf)
 * [Fall 2022 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa22-mt_printed.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa22-mt_solution.pdf)
 * [Spring 2022 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-midterm.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-midterm-solution.pdf)

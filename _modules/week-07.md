@@ -13,7 +13,7 @@ Feb 26
 
 Feb 28
 : **18 (Khan)**{: .label} Decisions and Uncertainty
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1dVe-Zkt9YsDRk3YD-uM31xh2Mts4h8SP5obfUkzIFVM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec18%2Flec18_modified.ipynb)
 : *Reading:* [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 
 Mar 1

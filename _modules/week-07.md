@@ -21,4 +21,4 @@ Mar 1
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
  &#8226;
 : *Reading:* [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
-: **Homework**{: .label .label-homework} Homework 07 (Due 3/6)
+: **Homework**{: .label .label-homework} [Homework 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw07%2Fhw07.ipynb) (Due 3/6)

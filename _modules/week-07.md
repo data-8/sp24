@@ -19,6 +19,6 @@ Feb 28
 Mar 1
 : **19 (Sahai)**{: .label} A/B Testing
    : [Slides](https://docs.google.com/presentation/d/1HZNgop4GkllHvgGxFeYmcydBXX8Sl7ek9RKPo22cC6c/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demos](
-https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec17%2Flec19.ipynb)
+https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec19%2Flec19.ipynb)
 : *Reading:* [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
 : **Homework**{: .label .label-homework} [Homework 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw07%2Fhw07.ipynb) (Due 3/6)

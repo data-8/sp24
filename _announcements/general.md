@@ -1,9 +1,8 @@
 ---
-title: Week 7 Announcements
-week: 7
-date: 2024-02-25
+title: Week 8 Announcements
+week: 8
+date: 2024-03-03
 ---
 
-* HW 06 due **Wednesday 2/28**
-* Lab 06 due **Friday 3/1**
+* HW 07 due **Wednesday 3/6**
 * Midterm: March 8th from 7:00PM - 9:00PM 

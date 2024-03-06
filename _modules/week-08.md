@@ -12,7 +12,7 @@ Mar 4
 
 Mar 6
 : **21 (Khan)**{: .label} Examples
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1mcKbu3KmYWTiK7tIf_p8483bl4Msnzo2kPdapxaGonM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec21%2Flec21_modified.ipynb)
 : *Reading:* [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
 
 Mar 8

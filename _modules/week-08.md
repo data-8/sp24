@@ -17,5 +17,5 @@ Mar 6
 
 Mar 8
 : **22 (Khan)**{: .label} Midterm Review
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1Qw-FTiNqki-lnnAxnNt2bZkeNXnRTlzd4FoGB9objNo/edit?usp=sharing)
 : **Exam**{: .label .label-exam} Midterm (7 - 9 PM)

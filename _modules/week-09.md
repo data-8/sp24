@@ -6,7 +6,7 @@ status: Active
 
 Mar 11
 : **23 (Sahai)**{: .label} Confidence Intervals
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1oYlXN1gsBVJFWjI3n9zy8ObzH4MOMCMa0D7x0FLvpzI/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec23%2Flec23.ipynb)
 : *Reading:* [13](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
 : **Lab**{: .label .label-lab} Lab 07: A/B Testing (Due 3/15)
  : Lab 07 Worksheet

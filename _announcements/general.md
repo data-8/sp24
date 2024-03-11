@@ -1,7 +1,7 @@
 ---
-title: Week 8 Announcements
-week: 8
-date: 2024-03-03
+title: Week 9 Announcements
+week: 9
+date: 2024-03-10
 ---
 
-* Midterm: March 8th from 7:00PM - 9:00PM 
+* Lab 07 releases on Monday

@@ -13,7 +13,7 @@ Mar 11
 
 Mar 13
 : **24 (Khan)**{: .label} Interpreting Confidence
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1bkNOYwT9UVBTJmFzliPUNFpjgDEshzdhQ48uM969vvY/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec24%2Flec24.ipynb)
 : *Reading:* [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html), [13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)
 
 Mar 15

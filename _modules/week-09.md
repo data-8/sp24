@@ -21,4 +21,4 @@ Mar 15
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
  <!--: Supplemental Videos: [Standard Units](#), [Checking Chebyshev Bounds](#)-->
-: **Homework**{: .label .label-homework} Homework 08 (3/20)
+: **Homework**{: .label .label-homework} [Homework 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw08%2Fhw08.ipynb) (3/20)

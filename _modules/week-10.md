@@ -21,4 +21,4 @@ Mar 22
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 : **Homework**{: .label .label-homework} Homework 09 (Due 4/3)
-: **Project**{: .label .label-project} Project 2: Climate (Due 4/12, Checkpoint 4/7)
+: **Project**{: .label .label-project} Project 2: Climate (Due 4/12, Checkpoint 4/5)

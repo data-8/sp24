@@ -8,7 +8,7 @@ Mar 18
 : **26 (Sahai)**{: .label} The Normal Distribution
    : [Slides](https://docs.google.com/presentation/d/1BK5sYdh9eMQUDRPqPM0XGPIkv5R_L9k3Y8qidjJdVD8/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec26%2Flec26.ipynb)
 : *Reading:* [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
-: **Lab**{: .label .label-lab} Lab 08: Sample Means (Due 3/22)
+: **Lab**{: .label .label-lab} [Lab 08: Sample Means](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab08%2Flab08.ipynb) (Due 3/22)
    : [Lab 08 Worksheet](https://drive.google.com/file/d/1hYmPd6y-vrtKb00hIipYd9CeA6rTrNNv/view?usp=sharing)
 
 Mar 20

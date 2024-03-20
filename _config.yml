@@ -29,16 +29,21 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+aux_links:
+  Textbook:
+    - 'https://inferentialthinking.com/chapters/intro.html'
+  Anonymous Feedback Form:
+    - 'https://forms.gle/gHhrqEGCGE1S4N1r5'
   # Ed:
   #   - 'https://edstem.org/us/courses/44018/'
   # Feedback Form:
   #   - 'https://forms.gle/gHhrqEGCGE1S4N1r5'
 
-External navigation links
-nav_external_links:
-   - title: Textbook
-     url: https://inferentialthinking.com/chapters/intro.html
-     hide_icon: true
+# External navigation links
+# nav_external_links:
+#   - title: Textbook
+#     url: https://inferentialthinking.com/chapters/intro.html
+#     hide_icon: true
 
 footer_content:
 

@@ -34,11 +34,11 @@ permalink: pretty
   # Feedback Form:
   #   - 'https://forms.gle/gHhrqEGCGE1S4N1r5'
 
-# External navigation links
-# nav_external_links:
-#   - title: Textbook
-#     url: https://inferentialthinking.com/chapters/intro.html
-#     hide_icon: true
+External navigation links
+nav_external_links:
+   - title: Textbook
+     url: https://inferentialthinking.com/chapters/intro.html
+     hide_icon: true
 
 footer_content:
 

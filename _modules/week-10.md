@@ -20,5 +20,5 @@ Mar 22
 : **28 (Khan)**{: .label} Designing Experiments
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
-: **Homework**{: .label .label-homework} Homework 09 (Due 4/3)
+: **Homework**{: .label .label-homework} [Homework 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw09%2Fhw09.ipynb) (Due 4/3)
 : **Project**{: .label .label-project} Project 2: Climate (Due 4/12, Checkpoint 4/5)

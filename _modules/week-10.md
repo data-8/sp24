@@ -21,4 +21,4 @@ Mar 22
    : [Slides](https://docs.google.com/presentation/d/1e7w3tqPsAv5_eJtoJ0ECwtvC8f82vCfdBgjK3mvH0ac/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec28%2Flec28.ipynb)
 : *Reading:* [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 : **Homework**{: .label .label-homework} [Homework 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw09%2Fhw09.ipynb) (Due 4/3)
-: **Project**{: .label .label-project} Project 2: Climate (Due 4/12, Checkpoint 4/5)
+: **Project**{: .label .label-project} [Project 2: Climate](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fproject%2Fproject2%2Fproject2.ipynb) (Due 4/12, Checkpoint 4/5)

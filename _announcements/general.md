@@ -1,7 +1,7 @@
 ---
-title: Week 10 Announcements
-week: 10
-date: 2024-03-22
+title: Week 12 Announcements
+week: 12
+date: 2024-04-1
 ---
 
 * HW 09 due 4/3 **Wednesday 5pm**
@@ -9,4 +9,3 @@ date: 2024-03-22
 * Project 2 released!
     * Checkpoint due 4/5
     * Everything due 4/12
-* Midterm regrade requests due **Friday 11:59pm**

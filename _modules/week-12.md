@@ -12,7 +12,7 @@ Apr 1
 
 Apr 3
 : **30 (Khan)**{: .label} Linear Regression
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1XhHSlppiKSAN84ZFMuv4_-WM9EHzLED-F1xGXG2UqUk/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec30%2Flec30.ipynb)
 : *Reading:* [15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)
 
 Apr 5

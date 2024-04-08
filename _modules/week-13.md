@@ -4,8 +4,8 @@ class: Berkeley
 status: Active
 ---
 Apr 8
-: **32 (Sahai)**{: .label} Residuals
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+: **32**{: .label} Residuals _(Pre-recorded)_
+   : [Slides](https://docs.google.com/presentation/d/17hsWQLgiJaVmHn8aZ1bZAYa-EPgzSSNiEJfymjqJSZU/edit?usp=sharing) &#8226; [Video](https://www.youtube.com/watch?v=G_uPkp-h0_o&ab_channel=Data8)
 : **Lab**{: .label .label-lab} Lab 09: Regression (Due 4/12)
  : Lab 09 Worksheet
 

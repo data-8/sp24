@@ -18,5 +18,6 @@ Apr 10
 Apr 12
 : **34 (Khan)**{: .label} Updating Predictions
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+: *Reading:* [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
 : **Homework**{: .label .label-homework} Homework 11 (Due 4/17)
 : **Project**{: .label .label-project} Project 3: Classifying Movies (Due 4/26, Checkpoint 4/19)

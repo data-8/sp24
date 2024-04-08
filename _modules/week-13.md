@@ -19,4 +19,4 @@ Apr 12
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : *Reading:* [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
 : **Homework**{: .label .label-homework} Homework 11 (Due 4/17)
-: **Project**{: .label .label-project} Project 3: Classifying Movies (Due 4/26, Checkpoint 4/21)
+: **Project**{: .label .label-project} Project 3: Classifying Movies (Due 4/26, Checkpoint 4/19)

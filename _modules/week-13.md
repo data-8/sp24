@@ -7,8 +7,8 @@ Apr 8
 : **32**{: .label} Residuals _(Pre-recorded)_
    : [Slides](https://docs.google.com/presentation/d/17hsWQLgiJaVmHn8aZ1bZAYa-EPgzSSNiEJfymjqJSZU/edit?usp=sharing) &#8226; [Video](https://www.youtube.com/watch?v=G_uPkp-h0_o&ab_channel=Data8)
 : *Reading:* [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [15.6](https://inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html)
-: **Lab**{: .label .label-lab} Lab 09: Regression (Due 4/12)
- : Lab 09 Worksheet
+: **Lab**{: .label .label-lab} [Lab 09: Regression](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flab%2Flab09%2Flab09.ipynb) (Due 4/12)
+   : [Lab 09 Worksheet](https://drive.google.com/file/d/18DL-em6oyXEgxfkueoiiumR3RP6YVxOj/view?usp=sharing)
 
 Apr 10
 : **33 (Sarah & Noah)**{: .label} Regression Inference

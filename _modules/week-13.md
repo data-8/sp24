@@ -12,7 +12,7 @@ Apr 8
 
 Apr 10
 : **33 (Sarah & Noah)**{: .label} Regression Inference
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1-vSsSDGtJK_NdgksXlivL6Zzl1l1svfjalNyd24zS70/edit) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec33%2Flec33.ipynb)
 : *Reading:* [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
 
 Apr 12

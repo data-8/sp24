@@ -17,7 +17,7 @@ Apr 10
 
 Apr 12
 : **34 (Khan)**{: .label} Updating Predictions
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1zCVICvwdgZKmkaP-9p1jGIeXaCTJ1rk0jE6TrNTjbvo/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec34%2Flec34_updating_probs.ipynb)
 : *Reading:* [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
 : **Homework**{: .label .label-homework} [Homework 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw11%2Fhw11.ipynb) (Due 4/17)
 : **Project**{: .label .label-project} Project 3: Classifying Movies (Due 4/26, Checkpoint 4/19)

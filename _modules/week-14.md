@@ -6,17 +6,17 @@ status: Active
 
 Apr 15
 : **35 (Sahai)**{: .label} Classification
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1zD1EbSNE7ewghFJ2JWS3HTUX2d9_lECj6kOmDf7HSUo/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec35%2Flec35.ipynb)
 : *Reading:* [17](https://inferentialthinking.com/chapters/17/Classification.html), [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html), [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html), [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html)
 : Project 3 Lab Worksheet
 
 Apr 17
 : **36 (Sahai)**{: .label} Classifiers
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1DOUCYiwxoyF6Z6gaZj_1VL8CMN-QQHAlSkRgsUssvsM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec36%2Flec36.ipynb)
 : *Reading:* [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 
 
 Apr 19
-: **37 (Wagner)**{: .label} Privacy
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+: **37**{: .label} Privacy _(Pre-recorded)_
+   : [Slides](https://drive.google.com/file/d/1u82AhbGD3B1tjVFgOe_D3qSpD2ZJBFJf/view?usp=sharing) &#8226; [Video](https://youtu.be/tmk-bnQrtik?si=cS3ziupR1Xi8IEBb)
 : **Homework**{: .label .label-homework} Homework 12 (Due 4/24)

@@ -1,11 +1,11 @@
 ---
-title: Week 13 Announcements
-week: 13
-date: 2024-04-12
+title: Week 14 Announcements
+week: 14
+date: 2024-04-14
 ---
 
-* **No live lecture on Monday**
-    * Please watch last year's [recording](https://www.youtube.com/watch?v=G_uPkp-h0_o)
+* **No live lecture on Friday**
+    * Please watch the pre-recorded privacy lecture [recording](https://youtu.be/tmk-bnQrtik?si=cS3ziupR1Xi8IEBb)
 * HW 11 due 4/17 **Wednesday 5pm**
 * Project 3 released
     * Checkpoint due **4/19 Friday 5pm**

@@ -5,13 +5,13 @@ status: Active
 ---
 
 Apr 22
-: **38 (Sahai)**{: .label} Case Study: Tech
+: **38 (TBD)**{: .label} Inference Review
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 : **Lab**{: .label .label-lab} Lab 10: Conditional Probability (Due 4/26)
  : Lab 10 Worksheet
 
 Apr 24
-: **39 (Adhikari)**{: .label} Inference Review
+: **39 (Sahai)**{: .label} Case Study: Tech
  <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
 
 Apr 26

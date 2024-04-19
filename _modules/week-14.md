@@ -15,8 +15,7 @@ Apr 17
    : [Slides](https://docs.google.com/presentation/d/1DOUCYiwxoyF6Z6gaZj_1VL8CMN-QQHAlSkRgsUssvsM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Flec%2Flec36%2Flec36.ipynb)
 : *Reading:* [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 
-
 Apr 19
-: **37**{: .label} Privacy _(Pre-recorded)_
+: **37**{: .label} Privacy *(Pre-recorded)*
    : [Slides](https://drive.google.com/file/d/1u82AhbGD3B1tjVFgOe_D3qSpD2ZJBFJf/view?usp=sharing) &#8226; [Video](https://youtu.be/tmk-bnQrtik?si=cS3ziupR1Xi8IEBb)
-: **Homework**{: .label .label-homework} Homework 12 (Due 4/24)
+: **Homework**{: .label .label-homework} [Homework 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp24&urlpath=tree%2Fmaterials-sp24%2Fhw%2Fhw12%2Fhw12.ipynb) (Due 4/24)

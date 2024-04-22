@@ -6,7 +6,7 @@ status: Active
 
 Apr 22
 : **38 (Khan)**{: .label} Inference Review
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+ : [Slides](https://docs.google.com/presentation/d/1MDEXl6kbjn7udNsQeIc_WtLMknqhb6O_PDTRO8ceXPY/edit#slide=id.g610d9f86d0_0_5)
 : **Lab**{: .label .label-lab} Lab 10: Conditional Probability (Due 4/26)
  : Lab 10 Worksheet
 

@@ -12,7 +12,7 @@ Apr 22
 
 Apr 24
 : **39 (Sahai)**{: .label} Case Study: Tech
- <!-- : [Slides](#) &#8226; [Demos](#) &#8226; [Blank Demos](#) -->
+   : [Slides](https://docs.google.com/presentation/d/1v8DxFBkKoAMO6fBByj-HkfqaB2PQfJj1dS2pszIK1Gc/edit?usp=sharing)
 
 Apr 26
 : **40 (Sahai)**{: .label} Conclusion

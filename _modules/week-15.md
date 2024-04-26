@@ -16,4 +16,4 @@ Apr 24
 
 Apr 26
 : **40 (Sahai)**{: .label} Conclusion
-: **Homework**{: .label .label-homework} Homework 13 (Due 5/5)
+: **Homework**{: .label .label-homework} [Homework 13](https://www.gradescope.com/courses/703847) (Due 5/5)

@@ -16,4 +16,5 @@ Apr 24
 
 Apr 26
 : **40 (Sahai)**{: .label} Conclusion
+   : [Slides](https://docs.google.com/presentation/d/1H3uoPHn_gA9FYyq09e3lFurtTW5YrKQbfxFU90OeOrk/edit?usp=sharing)
 : **Homework**{: .label .label-homework} [Homework 13](https://www.gradescope.com/courses/703847) (Due 5/5)

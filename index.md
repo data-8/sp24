@@ -17,11 +17,11 @@ UC Berkeley, Spring 2024
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
-[Ed](https://edstem.org/us/courses/60192/){: .btn .btn-ed}
-[bCourses](https://bcourses.berkeley.edu/courses/1535590){: .btn .btn-bcourses}
+[Ed](https://www.edstem.org/us/courses/52859/discussion/){: .btn .btn-ed}
+[Lecture Recordings](https://bcourses.berkeley.edu/courses/1532352/external_tools/90481){: .btn .btn-bcourses}
 [Gradescope](https://www.gradescope.com/courses/703847){: .btn .btn-gradescope}
 [Textbook](https://inferentialthinking.com/chapters/intro.html){: .btn .btn-textbook}
-[Extensions](){: .btn .btn-extensions}
+[Extensions](https://docs.google.com/forms/d/e/1FAIpQLScIjB9LSxV7UPKdNrAWbPJWJMJqV05P3jyznuAtAqQPmB79EA/viewform?usp=sf_link){: .btn .btn-extensions}
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
 
